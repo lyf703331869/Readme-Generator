@@ -29,8 +29,7 @@
   ## Usage
 
   Open the index.js file and run terminal, type the "node index.js"
-  ![Untitled_ Jun 3, 2022 12_12 AM](https://user-images.githubusercontent.com/103960619/171784899-b3434dd5-92f8-4c6d-96fc-76942445cf4e.gif)
-
+<iframe src="https://drive.google.com/file/d/1HlMFxHQs2SqhYLmGyaJGwk2r5eSUXVnp/preview" width="640" height="480"></iframe>
 
   ## license
 
