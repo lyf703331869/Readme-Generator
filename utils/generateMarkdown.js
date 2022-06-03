@@ -13,7 +13,7 @@ const renderLicenseLink = (license) => {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 const renderLicenseSection = (license) => {
-  return `## license`;
+  return `## License`;
 };
 
 // TODO: Create a function to generate markdown for README
@@ -80,7 +80,7 @@ const generateMarkdown = ({
   
   If you have any questions, please feel free to reach out to me via:
   1. ${email}
-  2. [${username}](http://https://github.com/${username})
+  2. [${username}](https://github.com/${username})
   
   
   ## Credits
