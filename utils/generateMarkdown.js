@@ -1,20 +1,20 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {
-  `![License](https://img.shields.io/badge/license-${license}-green?style=for-the-badge&logo=appveyor)`;
-}
+const renderLicenseBadge = (license) => {
+  return `![License](https://img.shields.io/badge/license-${license}-green?style=for-the-badge&logo=appveyor)`;
+};
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {
-  `* [License](#license)`;
-}
+const renderLicenseLink = (license) => {
+  return `* [License](#license)`;
+};
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {
-  `## license`;
-}
+const renderLicenseSection = (license) => {
+  return `## license`;
+};
 
 // TODO: Create a function to generate markdown for README
 
@@ -35,9 +35,9 @@ const generateMarkdown = ({
   ${renderLicenseBadge(license)}
 
   ## Description
-  
   ${description}
   
+
   ## Table of Contents
 
   * [Installation](#installation)
@@ -54,29 +54,34 @@ const generateMarkdown = ({
 
 
   ## Installation
-  
+
   ${installation}
-  
+ 
+
   ## Usage
-  
+
   ${usage}
   
+
   ${renderLicenseSection(license)}
 
 
   ## Contributing
-  
+
   ${contributing}
   
+
   ## Tests
-  
+
   ${tests}
-  
+
+
   ## Questions
   
   If you have any questions, please feel free to reach out to me via:
   1. ${email}
-  2. ${username}
+  2. [${username}](http://https://github.com/${username})
+  
   
   ## Credits
   Copyright © All rights reserved by ${name}.   
