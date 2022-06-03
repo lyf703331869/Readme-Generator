@@ -29,7 +29,8 @@
   ## Usage
 
   Open the index.js file and run terminal, type the "node index.js"
-<iframe src="https://drive.google.com/file/d/1HlMFxHQs2SqhYLmGyaJGwk2r5eSUXVnp/preview" width="640" height="480"></iframe>
+![Untitled_ Jun 3, 2022 12_12 AM (1)](https://user-images.githubusercontent.com/103960619/171785166-fa362c91-b045-4014-b4e0-6d3b8c52f374.gif)
+
 
   ## license
 
