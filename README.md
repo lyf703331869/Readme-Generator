@@ -33,7 +33,7 @@
 ![Untitled_ Jun 3, 2022 12_12 AM (1)](https://user-images.githubusercontent.com/103960619/171785166-fa362c91-b045-4014-b4e0-6d3b8c52f374.gif)
 
 
-  ## license
+  ## License
 
 
   ## Contributing
